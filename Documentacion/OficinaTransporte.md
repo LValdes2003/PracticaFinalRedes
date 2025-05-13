@@ -4,4 +4,5 @@ La Oficina de Transporte tiene un Firewall ASA 5506, que conecta y gestiona info
 
 ### Configuraciones
 #### Firewall
-
+![Firewall Config 1](TransporteFW1.png)
+![Firewall Config 2](TransporteFW2.png)
